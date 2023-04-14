@@ -5,7 +5,8 @@ The Finite Element Method is a method of approximating solutions to partial diff
 
 Example grids used for calculations:
 
-1. ![grid1](./readme_screens/grid1.png) 2. ![grid2](./readme_screens/grid2.png) 3. ![grid3](./readme_screens/grid3.png)
+1. ![grid1](./readme_screens/grid1.png)     2. ![grid2](./readme_screens/grid2.png) 
+3. ![grid3](./readme_screens/grid3.png)
 
 
 The calculation results of the program for the grids described in the text files in the source folder:
